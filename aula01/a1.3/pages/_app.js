@@ -6,7 +6,6 @@ function MyApp({ Component, pageProps }) {
         font-family: sans-serif;
       }`}
       </style>
-      Texto em toads as páginas
       <Component {...pageProps} />
     </>
   );
